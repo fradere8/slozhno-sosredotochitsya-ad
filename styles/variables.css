@@ -1,22 +1,12 @@
-/* Темная тема по умолчанию */
 :root {
   --font-family: "IBM Plex mono";
-    /* кнопки, рамки и т.д (основной) */
   --accent-color: #ff0070;
-    /* no focus */
   --title-color: #db00ff;
-    /* фон мелких заголовков */
   --title-decor: #ff0070;
-    /* текст на розовом фоне */
   --subtitle-color: #000028;
-    /* цвет обычного текста */
   --text-color: #f1b2ce;
-    /* картинка для фона страницы */
   --background-image: url("../images/cover-image-dark.png");
-    /* фон если картинка не грузится */
   --background-color: #000028;
-    /* показывать или нет rec */
   --display-decorated: block;
-  /* цвет при наведении на кнопки меню */
   --hover-color: #FF007066;
 }
