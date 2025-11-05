@@ -4,17 +4,12 @@
   --title-decor: #ff8dcb;
   --subtitle-color: #353430;
   --text-color: #353430;
-  
   --background-image: url("../images/cover-image-light.png");
-  
   --background-color: #fff1f7;
-  
   --display-decorated: none;
-  
   --hover-color: #32312d66;
 }
 
-/* Если в браузере выбрана светлая тема */
 @media (prefers-color-scheme: light) {
   :root {
     --accent-color: #353430;
